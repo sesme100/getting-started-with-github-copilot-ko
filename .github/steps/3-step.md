@@ -38,7 +38,7 @@ Copilot을 사용해 각 활동 카드 아래에 신청한 학생 목록이 보�
 
 1. Copilot Chat 창 하단 드롭다운에서 **Agent** 모드로 전환합니다. (한국어 UI에서는 '에이전트' 또는 '대리인' 모드로 표시될 수 있습니다.)
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. 웹페이지 관련 파일을 열고 각 에디터 창(또는 파일)을 채팅 패널로 드래그해 컨텍스트로 추가합니다.
 
@@ -48,7 +48,7 @@ Copilot을 사용해 각 활동 카드 아래에 신청한 학생 목록이 보�
 
    > 🪧 **참고:** 파일 컨텍스트 추가는 선택 사항입니다. 생략해도 Copilot Agent Mode는 `#codebase` 등 도구로 관련 파일을 찾을 수 있습니다. 다만 대규모 코드베이스에서는 특정 파일을 추가해 주는 것이 더 효과적입니다.
 
-   <img width="400" alt="image showing files added to context" src="../images/files-added-to-context.png" />
+   <img width="400" alt="image showing files added to context" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **팁:** **Add Context...** 버튼을 이용해 GitHub 이슈나 터미널 출력 등 다른 컨텍스트도 추가할 수 있습니다.
 
@@ -69,14 +69,14 @@ Copilot을 사용해 각 활동 카드 아래에 신청한 학생 목록이 보�
 
    아래 **Keep** 버튼으로 전체 수락/폐기 또는 변경별 선택 적용이 가능합니다. 채팅 패널이나 각 수정 파일에서 모두 수행할 수 있습니다.
 
-      <img width="900" alt="buttons to keep or discard changes" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="buttons to keep or discard changes" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. 변경을 바로 수락하기 전에 웹사이트를 다시 확인해 의도대로 업데이트되었는지 검증하세요.
    
    아래는 업데이트된 활동 카드 예시입니다. 앱 재시작이나 페이지 새로고침이 필요할 수 있습니다.
 
-   <img width="350" alt="Activity card with participant info" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Activity card with participant info" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **참고:** 활동 카드 모양은 다를 수 있습니다. Copilot 결과는 항상 동일하지 않습니다.
 
@@ -102,11 +102,11 @@ Copilot을 사용해 각 활동 카드 아래에 신청한 학생 목록이 보�
 
 1. Copilot이 계속 **Agent** 모드인지 확인합니다.
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. **Tools** 아이콘을 눌러 현재 Copilot Agent Mode에서 사용 가능한 도구를 확인합니다.
 
-   <img width="250"  alt="tools icon" src="../images/tools-icon.png" />
+   <img width="250"  alt="tools icon" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. 이제 테스트입니다. Copilot에게 참가자 제거 기능을 추가하도록 요청합니다.
 

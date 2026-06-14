@@ -53,7 +53,7 @@ Copilot은 전문성이 높은 동료 개발자처럼 생각하면 이해하기 
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. `Tab`을 눌러 Copilot 제안을 수락하고 실제 코드로 반영합니다.
 
@@ -94,7 +94,7 @@ Copilot은 전문성이 높은 동료 개발자처럼 생각하면 이해하기 
 
 1. `activities` 딕셔너리 전체를 드래그로 선택합니다. 다음 프롬프트에서 Copilot이 문맥을 이해하는 데 도움이 됩니다.
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. `Ctrl + I`(Windows) 또는 `Cmd + I`(macOS)로 Copilot Inline Chat을 엽니다.
@@ -194,7 +194,7 @@ Copilot은 전문성이 높은 동료 개발자처럼 생각하면 이해하기 
 
 1. `app.py` 파일 옆 `+` 버튼을 눌러 변경사항을 스테이징합니다.
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. 스테이징 목록 위의 **Message** 입력칸을 찾되, 지금은 **아무 것도 입력하지 마세요**.
    - 보통은 직접 커밋 메시지를 작성하지만, 이번에는 Copilot을 사용합니다.

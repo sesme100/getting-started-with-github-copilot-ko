@@ -29,11 +29,11 @@
 
 1. (선택) PR 설명 툴바에서 **Copilot** 아이콘의 **Summary**를 클릭합니다. 잠시 후 Copilot이 변경사항 기반으로 설명을 생성합니다. :memo:
 
-   <img alt="Copilot summarize button" width="450px" src="../images/copilot-summarize-button.png">
+   <img alt="Copilot summarize button" width="450px" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/copilot-summarize-button.png?raw=true">
 
 1. (선택) 우측 상단 정보 패널의 **Reviewers** 섹션에서 **Copilot 아이콘** 옆 **Request** 버튼을 누릅니다. 잠시 후 Copilot 리뷰 코멘트가 PR에 추가됩니다.
 
-   <img alt="Copilot review button" width="300px" src="../images/copilot-review-button.png">
+   <img alt="Copilot review button" width="300px" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/copilot-review-button.png?raw=true">
 
    > 💡 **팁:** Copilot 리뷰 요청 로그가 남는 것을 확인해 보세요.
 

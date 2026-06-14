@@ -4,11 +4,11 @@
 
 이번 실습에서는 GitHub Copilot의 다양한 기능을 사용해, Mergington High School 학생들이 방과후 활동을 신청할 수 있는 웹사이트를 개선합니다. 🎻 ⚽️ ♟️
 
-<img width="600" alt="screenshot of Mergington High School WebApp" src="../images/mergington-high-school-webapp.png" />
+<img width="600" alt="screenshot of Mergington High School WebApp" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />
 
 ### 📖 이론: GitHub Copilot 알아보기
 
-<img width="150" align="right" alt="copilot logo" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="copilot logo" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 GitHub Copilot은 더 빠르고 적은 노력으로 코드를 작성할 수 있도록 도와주는 AI 코딩 도우미입니다. 덕분에 문제 해결과 협업에 더 집중할 수 있습니다.
 
@@ -49,19 +49,19 @@ IDE에서 작업할 때 가장 자주 사용하게 될 상호작용 방식은 �
 
 1. 왼쪽 사이드바에서 Extensions 탭을 열고, `GitHub Copilot` 및 `Python` 확장이 설치 및 활성화되어 있는지 확인합니다.
 
-   <img width="350" alt="copilot extension for VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="copilot extension for VS Code" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="python extension for VS Code" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="python extension for VS Code" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
 1. VS Code 상단에서 **Toggle Chat 아이콘**을 눌러 Copilot Chat 사이드 패널을 엽니다.
 
-   <img width="150" alt="image" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **참고:** GitHub Copilot을 처음 사용한다면, 진행 전에 이용 약관 동의가 필요합니다.
 
 1. 첫 번째 상호작용을 위해 **Ask Mode**로 전환되어 있는지 확인하세요.
 
-   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 1. 아래 프롬프트를 입력해 Copilot에게 프로젝트 소개를 요청합니다.
 
@@ -79,13 +79,13 @@ IDE에서 작업할 때 가장 자주 사용하게 될 상호작용 방식은 �
 
 1. 이제 프로젝트를 직접 실행해 봅시다. 왼쪽 사이드바에서 `Run and Debug` 탭을 선택한 뒤 **Start Debugging** 아이콘을 누르세요.
 
-   <img width="300" alt="image" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. 브라우저에서 웹페이지를 보기 위해 URL과 포트를 확인합니다. 보이지 않으면 하단 패널을 펼쳐 **Ports** 탭을 선택하세요.
 
 1. 목록에서 포트 `8000`과 해당 링크를 찾고, 링크에 마우스를 올린 뒤 **Open in browser** 아이콘을 선택합니다.
 
-   ![image](../images/open-in-browser-icon.png)
+   ![image](https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: 활동: Copilot으로 터미널 명령 기억하기 🙋
 

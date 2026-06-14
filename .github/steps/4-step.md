@@ -30,7 +30,7 @@ Copilot [Plan Agent](https://code.visualstudio.com/docs/copilot/agents/planning)
 
 1. **Copilot Chat** 패널을 열고 **Plan Agent**로 전환합니다.
 
-   <img width="350" alt="image" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. 먼저 넓은 범위의 프롬프트로 시작하고, Copilot과 함께 세부사항을 채워갑니다.
@@ -64,7 +64,7 @@ Copilot [Plan Agent](https://code.visualstudio.com/docs/copilot/agents/planning)
 
 1. 제안된 계획을 검토하고 만족하면 **Start implementation**을 눌러 **Agent Mode**로 넘깁니다.
 
-   <img width="350" alt="image" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="image" src="https://github.com/sesme100/getting-started-with-github-copilot-ko/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    버튼을 누르면 **Plan**에서 **Agent Mode**로 전환됩니다. 이 시점부터 Copilot은 이전과 같이 코드베이스를 수정할 수 있습니다.
 
