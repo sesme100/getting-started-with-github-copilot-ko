@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mergington High School 활동</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Mergington High School</h1>
+      <h2>방과후 활동</h2>
+    </header>
+
+    <main>
+      <section id="activities-container">
+        <h3>이용 가능한 활동</h3>
+        <div id="activities-list">
+          <!-- 활동 목록이 이곳에 표시됩니다 -->
+          <p>활동 목록을 불러오는 중...</p>
+        </div>
+      </section>
+
+      <section id="signup-container">
+        <h3>활동 신청</h3>
+        <form id="signup-form">
+          <div class="form-group">
+            <label for="email">학생 이메일:</label>
+            <input type="email" id="email" required placeholder="your-email@mergington.edu" />
+          </div>
+          <div class="form-group">
+            <label for="activity">활동 선택:</label>
+            <select id="activity" required>
+              <option value="">-- 활동을 선택하세요 --</option>
+              <!-- 활동 선택 옵션이 이곳에 표시됩니다 -->
+            </select>
+          </div>
+          <button type="submit">신청하기</button>
+        </form>
+        <div id="message" class="hidden"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Mergington High School</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

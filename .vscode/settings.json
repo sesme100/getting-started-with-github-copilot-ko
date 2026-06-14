@@ -1,0 +1,16 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git commit -m \"fix: 한글화 버전을 기본 템플릿으로 설정 및 링크 업데이트\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git push origin main$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git add \\.$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
